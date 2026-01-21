@@ -24,3 +24,5 @@ Iterative improvement based on feedback
 
 Built with
 Python (Udemy Complete Python Bootcamp by Jose Portilla – certificate earned)
+### Example Output
+![Project Output](screenshot.png)
